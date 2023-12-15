@@ -1,0 +1,20 @@
+{
+    "name": "adignwnslhhi/pbwl-uts",
+    "description": "Project UTS PBWL2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Inc\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adi gunawan",
+            "email": "adigunawansilalahi@gmail.com"
+        }
+    ],
+    "require": {
+        "almasaeed2010/adminlte": "~3.2"
+    }
+}
